@@ -13,3 +13,20 @@ Integration Testing is conducted by ______________
 	Integration Testing is conducted by multiple programmers.
 It is type of (blackbox/whitebox testing)
 	It may fall under both white box testing and black box testing.
+
+System testing 
+What is system Testing?
+        System testing is the execution of the software in its final configuration, including integration with other software and hardware systems.
+System Testing is conducted by ______________
+        System Testing is usually carried out by a team that is independent of the development team in order to measure the quality of the system unbiased.
+It is type of (blackbox/whitebox testing)
+        White box testing
+
+Acceptance testing
+What is acceptance Testing?
+        To goal of acceptance testing is to evaluate and validate that the system’s functionality meets the customer’s requirements, standards and business needs before the final delivery
+Acceptance Testing is conducted by ______________
+        Product Management, Sales and/or Customer Support
+It is type of (blackbox/whitebox testing)
+        Black box testing
+
